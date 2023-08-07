@@ -1,0 +1,41 @@
+.br{
+  background-color: transparent;
+  height: 90px; 
+}
+.navbar-brand{
+  font-size: xx-large;
+}
+.ri{
+  position:absolute;
+  right: 0;
+}
+.nav-item{
+  font-size: large;
+}
+.nav-link:hover{
+  color: rgb(218, 137, 31) !important;
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+
+p, figure {
+    margin: 0;
+}
+body{
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.729);
+    font-family: 'Montserrat', sans-serif;
+}
+.banner{
+    background: url(../image/banner.jpg);
+    height: 767px;
+}
+
+h5{
+    font-weight: 700;
+}
+
+.btn{
+    border-radius: 0;
+}
+
